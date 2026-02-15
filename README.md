@@ -15,3 +15,11 @@ This project involves building a scalable web app with S3, CloudFront, Lambda, A
 🔗 Connect all these services together seamlessly for your three-tier architecture.
 
 ## Create an S3 Bucket
+
+Login to the aws console
+
+Search for S3 in the Search bar
+
+Create an S3 bucket- Ensure to give it a unique name
+
+
