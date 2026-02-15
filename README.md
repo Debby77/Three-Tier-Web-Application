@@ -13,3 +13,5 @@ This project involves building a scalable web app with S3, CloudFront, Lambda, A
 💾 Store and retrieve user data with DynamoDB.
 
 🔗 Connect all these services together seamlessly for your three-tier architecture.
+
+## Create an S3 Bucket
